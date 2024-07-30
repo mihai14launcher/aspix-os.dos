@@ -1,2 +1,4 @@
-still in development use at your own risk!
-recommended to not use a ADMIN mode in cmd/powershell or use a virtual box to not harm your computer!
+**⚠️ Still in Development: Use at Your Own Risk! ⚠️**
+
+- **Caution:** Avoid using ADMIN mode in CMD/Powershell.
+- **Recommendation:** Utilize a virtual machine (e.g., VirtualBox) to prevent potential harm to your computer.
